@@ -7,4 +7,4 @@
 
 This is an example package made to test the TRM `install` command.
 
-Full explaination of how this package should be installed on your system is [here](https://docs.trmregistry.com/#/client/docs/examples/installHelloWorld).
+Full explaination of how this package should be installed on your system is [here](https://docs.trmregistry.com/#/client/docs/examples/install).
